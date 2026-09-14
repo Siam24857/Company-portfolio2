@@ -21,7 +21,7 @@ import {
   Megaphone,
   PenTool,
   Video,
-  BarChart3,
+  ChartColumn,
   Bot,
   Layers,
   Play,
@@ -74,7 +74,7 @@ const categories = [
   { name: "Digital Marketing", icon: Megaphone, gigs: "9,870", color: "from-orange-400 to-red-500" },
   { name: "Content Writing", icon: PenTool, gigs: "6,540", color: "from-green-400 to-emerald-500" },
   { name: "Video Editing", icon: Video, gigs: "4,320", color: "from-pink-400 to-rose-500" },
-  { name: "Data Analytics", icon: BarChart3, gigs: "3,890", color: "from-indigo-400 to-purple-500" },
+  { name: "Data Analytics", icon: ChartColumn, gigs: "3,890", color: "from-indigo-400 to-purple-500" },
   { name: "AI & Automation", icon: Bot, gigs: "2,760", color: "from-violet-400 to-fuchsia-500" },
 ];
 
